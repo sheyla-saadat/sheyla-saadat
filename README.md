@@ -1,5 +1,3 @@
-
-
 #### This is about me (*A junior full-stack developer who lives in Almere, Netherlands*)
 
 <img src="https://media1.giphy.com/media/TGROKbWqxXplM7aznn/giphy.gif">
