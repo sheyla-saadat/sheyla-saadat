@@ -2,7 +2,7 @@
 
 #### This is about me (*A junior full-stack developer who lives in Almere, Netherlands*)
 
-<img src="https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="100" height="100">
+<img src="https://i.pinimg.com/originals/86/a0/e4/86a0e477b14c1579f7eb793ef597b46d.gif" width="100" height="100">
 
 Full-stack developer based in the Netherlands. Being experienced and educated in both IT and Business development gives me the ability to identify the need of the market and customer, on one side and the ability to identify the possibilities of IT solutions on the other side.
 A couple of months ago, I decided to dive into the world of programming and started to learn coding at <a href="https://codaisseur.com/">Codaisseur Academy</a> in Amsterdam. After 9-week of intensive course, I can proudly introduce myself as a junior web-developer.
