@@ -2,7 +2,8 @@
 
 #### This is about me (*A junior full-stack developer who lives in Almere, Netherlands*)
 
-<img src="https://media2.giphy.com/media/kZdKqjcIGqeGGCRgwx/200w.gif?cid=82a1493bjr1wlltodhbedcy3hnlxtdr9qv1mhhg57adtk9hc&rid=200w.gif&ct=g">
+<img src="https://media1.giphy.com/media/TGROKbWqxXplM7aznn/giphy.gif">
+
 
 Full-stack developer based in the Netherlands. Being experienced and educated in both IT and Business development gives me the ability to identify the need of the market and customer, on one side and the ability to identify the possibilities of IT solutions on the other side.
 A couple of months ago, I decided to dive into the world of programming and started to learn coding at <a href="https://codaisseur.com/">Codaisseur Academy</a> in Amsterdam. After 9-week of intensive course, I can proudly introduce myself as a junior web-developer.
